@@ -1,3 +1,9 @@
+Splits-Happen entry by Rick Gould
+Program takes user input and produces bowling score
+
+
+
+
 # Design and Development Challenge – Bowling Score
 
 ## Requirement
